@@ -1,2 +1,2 @@
-# hbase-elasticsearch
-二级索引
+# 基于hbase协处理器和es搜索引擎的二级索引
+
